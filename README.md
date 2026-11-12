@@ -15,4 +15,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/vinitdharmale465-lgtm/Leetcode_codes/tree/master/0062-unique-paths) |
+## Array
+|  |
+| ------- |
+| [0974-subarray-sums-divisible-by-k](https://github.com/vinitdharmale465-lgtm/Leetcode_codes/tree/master/0974-subarray-sums-divisible-by-k) |
+## Hash Table
+|  |
+| ------- |
+| [0974-subarray-sums-divisible-by-k](https://github.com/vinitdharmale465-lgtm/Leetcode_codes/tree/master/0974-subarray-sums-divisible-by-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0974-subarray-sums-divisible-by-k](https://github.com/vinitdharmale465-lgtm/Leetcode_codes/tree/master/0974-subarray-sums-divisible-by-k) |
 <!---LeetCode Topics End-->
