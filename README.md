@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/vinitdharmale465-lgtm/Leetcode_codes/tree/master/0303-range-sum-query-immutable) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/vinitdharmale465-lgtm/Leetcode_codes/tree/master/0974-subarray-sums-divisible-by-k) |
 | [3028-ant-on-the-boundary](https://github.com/vinitdharmale465-lgtm/Leetcode_codes/tree/master/3028-ant-on-the-boundary) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/vinitdharmale465-lgtm/Leetcode_codes/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/vinitdharmale465-lgtm/Leetcode_codes/tree/master/0303-range-sum-query-immutable) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/vinitdharmale465-lgtm/Leetcode_codes/tree/master/0974-subarray-sums-divisible-by-k) |
 | [3028-ant-on-the-boundary](https://github.com/vinitdharmale465-lgtm/Leetcode_codes/tree/master/3028-ant-on-the-boundary) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/vinitdharmale465-lgtm/Leetcode_codes/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -36,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3028-ant-on-the-boundary](https://github.com/vinitdharmale465-lgtm/Leetcode_codes/tree/master/3028-ant-on-the-boundary) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/vinitdharmale465-lgtm/Leetcode_codes/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
