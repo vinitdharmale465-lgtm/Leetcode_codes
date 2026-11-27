@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/vinitdharmale465-lgtm/Leetcode_codes/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/vinitdharmale465-lgtm/Leetcode_codes/tree/master/0062-unique-paths) |
 ## Combinatorics
 |  |
@@ -42,4 +43,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/vinitdharmale465-lgtm/Leetcode_codes/tree/master/0303-range-sum-query-immutable) |
+## String
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/vinitdharmale465-lgtm/Leetcode_codes/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/vinitdharmale465-lgtm/Leetcode_codes/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/vinitdharmale465-lgtm/Leetcode_codes/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
